@@ -1,0 +1,63 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local tooling / downloads (never publish)
+_dl/
+_src/
+
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+*.symbols.zip
+*_BurstDebugInformation_DoNotShip/
+
+# Secrets / signing / licenses
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+*.ulf
+*.lic
+secrets/
+.env
+.env.*
+local.properties
+**/gradle.properties
+
+# Crash / analytics leftovers
+sysinfo.txt
+crashlytics-buildid.txt
